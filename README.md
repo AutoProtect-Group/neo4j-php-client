@@ -2,10 +2,10 @@
 
 ## An Enterprise Grade Client for Neo4j
 
-[![Build Status](https://travis-ci.org/gino-pane/neo4j-php-client.svg?branch=master)](https://travis-ci.org/gino-pane/neo4j-php-client)
-[![Latest Stable Version](https://poser.pugx.org/gino-pane/neo4j-php-client/v)](https://packagist.org/packages/gino-pane/neo4j-php-client)
-[![Total Downloads](https://poser.pugx.org/gino-pane/neo4j-php-client/downloads.svg)](https://packagist.org/packages/gino-pane/neo4j-php-client)
-[![License](https://poser.pugx.org/graphaware/neo4j-php-client/license.svg)](https://packagist.org/packages/graphaware/neo4j-php-client)
+[![Build Status](https://travis-ci.org/autoprotect-group/neo4j-php-client.svg?branch=master)](https://travis-ci.org/autoprotect-group/neo4j-php-client)
+[![Latest Stable Version](https://poser.pugx.org/autoprotect-group/neo4j-php-client/v)](https://packagist.org/packages/autoprotect-group/neo4j-php-client)
+[![Total Downloads](https://poser.pugx.org/autoprotect-group/neo4j-php-client/downloads.svg)](https://packagist.org/packages/autoprotect-group/neo4j-php-client)
+[![License](https://poser.pugx.org/autoprotect-group/neo4j-php-client/license.svg)](https://packagist.org/packages/autoprotect-group/neo4j-php-client)
 
 ## Introduction
 
@@ -67,7 +67,7 @@ You can:
 Add the library to your composer dependencies :
 
 ```bash
-composer require "graphaware/neo4j-php-client:^4.0"
+composer require "autoprotect-group/neo4j-php-client:^5.0"
 ```
 
 Require the composer autoloader, configure your connection by providing a connection alias and your connection settings :
