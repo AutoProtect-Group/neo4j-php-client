@@ -25,7 +25,7 @@
       "ext-bcmath": "*",
       "ext-mbstring": "*",
       "autoprotect-group/neo4j-common": "^3.6.2",
-      "autoprotect-group/neo4j-bolt": "^1.12.3",
+      "autoprotect-group/neo4j-bolt": "^1.12.4",
       "symfony/event-dispatcher": "^4.0 || ^5.0",
       "myclabs/php-enum": "^1.4",
       "php-http/httplug": "^2.2",
